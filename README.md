@@ -7,6 +7,11 @@ The objective was to extract meaningful insights related to customer behavior, a
 Through this project, I strengthened my SQL skills, worked with complex queries involving **multiple table joins (up to 11 tables!)**, and tackled real-world data challenges.
 
 ---
+## Project Files
+- Project Presentation: **Music Store(1).pdf**
+- SQL Queries: **All queries are provided in .sql files**
+
+---
 
 ## Key Insights and Tasks
 - Identify the **senior-most employee** based on job title.
